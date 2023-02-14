@@ -1,29 +1,3 @@
-# [Youtube Uploader Bot](https://tx.me/Utubeitbot)
-[![GitHub forks](https://img.shields.io/github/forks/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/Utubeitbot/fork)
-![Repo Size](https://img.shields.io/github/repo-size/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/Utubeitbot/stargazers)
-
-#### [Render Support Added](#render)
-#### ~~[Koyeb Support Discontinued](#koyeb)~~
-
-> Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
-
-### Contents
-
-- [Info](#info)
-- [Libraries Used](#libraries-used)
-- [Setup](#setup)
-- [Heroku](#heroku)
-- [Render](#render)
-- [Koyeb](#koyeb)
-- [Status](#status)
-- [Special Notes](#special-notes)
-- [Screenshots](#screenshots)
-- [Video Tutorial](#video-tutorial)
-- [Contact](#contact)
-- [License](#license)
-
-## How To Deploy; [See Video Here](https://youtu.be/JltFDW5X4Y0) 
 
 ### Info
 
@@ -141,14 +115,3 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 </p>
 
-### Video Tutorial
-
-Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
-
-### Contact
-
-You can contact me [@hxSupport](https://telegram.dog/hxSupport "hxSupport").
-
-### License
-
-Code released under [GNU General Public License v3.0](LICENSE).
